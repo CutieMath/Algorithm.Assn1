@@ -1,7 +1,7 @@
 ## Algorithm.Assn1
 Algorithm and Analysis assignment one, in collaboration with <a href="https://github.com/CY1223">Chin</a>.  
 The program implemented a Binary Space Partitioning (BSP) tree use Sequential Representation and Linked Representation.  
-The program can perform varies operations on the BSP tree.  
+Varies operations can be performed.  
 A test program will evaluate the time used to perform these operations on Sequential and Linked data stucture. 
 
 ### Operation  
