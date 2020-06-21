@@ -28,5 +28,9 @@ The program will then enter interactive mode where you can type operation code. 
 
  
 
-**2. Perform operations**  
-
+**2. Evaluate the efficiency of Sequential and Linked representations**  
+**First** run ``generation/DataGenerator.java`` to generate a BSP tree file.  
+Use arguments ``<start of range to sample from> <end of range to sample from> <number of values to sample> <type of sampling>``  
+``<type of sampling>`` here is ``with`` and ``without``, to represent sample without/with replacement, using "Algorithm R" by Jeffrey Vitter, in paper "Random sampling without a reservoir".  
+<br>
+**Then** run ``TaskB.java`` to print out the comparison of Sequential and Linked representation execution time. 
